@@ -1,8 +1,3 @@
-<div align="center">
-    <a href="https://t.me/wilm271"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://y08wilm.github.io"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="https://discordapp.com/users/397570768193585152/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
 
 ---
 
